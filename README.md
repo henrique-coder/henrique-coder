@@ -6,22 +6,22 @@
 Here are some ideas to get you started:
 -->
 
- 🔭 I’m currently working with front-end <br>
- 🌱 I’m currently learning Reactjs
+ 🔭 Atualmente estou trabalhando com TI e Informática <br>
+ 🌱 Atualmente estou estudando os programas: Android Studio, Unity e Blender
 
 <div align="left">
-  <a href="https://github.com/ObvTago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ObvTago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Henrique-Coder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <br />
   
 <div style="display: inline_block"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" height="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>
 </div>
   
   <br />
