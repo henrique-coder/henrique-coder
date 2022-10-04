@@ -1,4 +1,4 @@
-<h3 align="center">❝ A young developer in search of innovation ❞</h3>
+<h3 align="center">❝ A young developer looking for innovation ❞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=0e75b6&style=flat" alt="henrique-coder" /> </p>
 
