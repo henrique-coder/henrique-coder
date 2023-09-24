@@ -1,7 +1,7 @@
 <h1 align="center">Sup 👋, I'm Henrique</h1>
 <h3 align="center">❝ A developer who does what he likes... (I think) ❞</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=0e75b6&style=flat" alt="henrique-coder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="henrique-coder" /> </p>
 
 - 🌱 I’m currently learning **Computer Science at university**
 - 👯 I’m looking to collaborate on **entertainment python projects**
