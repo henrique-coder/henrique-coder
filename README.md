@@ -1,4 +1,4 @@
-<h1 align="center">Sup 👋, I'm Henrique</h1>
+<h1 align="center">Sup 👋, I'm Henrique (18y)</h1>
 <h3 align="center">❝ A developer who does what he likes... (I think) ❞</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="henrique-coder" /> </p>
@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on **entertainment python projects**
 - 💬 Ask me about **python, code compression, optimization of operating systems (Windows 10/11)**
 - 📫 Call me on Discord to chat by id **firehdpower**
-- ⚡ A fun fact about me is **that I love cats and a good run :D**
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
