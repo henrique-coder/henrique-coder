@@ -3,10 +3,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="henrique-coder" /> </p>
 
-- 🌱 I’m currently learning **Computer Science at university**
-- 👯 I’m looking to collaborate on **entertainment python projects**
-- 💬 Ask me about **python, code compression, optimization of operating systems (Windows 10/11)**
+#### A little about me
+
+- 🌱 I’m currently learning **Computer Science** at university
+- 👯 I'm looking to collaborate on **Python projects of any level**
+- 💬 Ask me about **Python, code compression, optimization of operating systems or code-related things**
 - 📫 Call me on Discord to chat by id **firehdpower**
+
+#### Some of my interests include
+
+- Networking
+- Information technology (IT)
+- Tools and APIs for automation
+- Low/High volume web scrapers/crawlers
+- Reverse engineering of server endpoints
+- Ethical hacking and acknowledgment
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
