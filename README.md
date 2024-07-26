@@ -1,5 +1,4 @@
-<h1 align="center">Sup 👋, I'm Henrique (18y)</h1>
-<h3 align="center">❝ A developer who does what he likes... (I think) ❞</h3>
+<h1 align="center">Sup 👋, I'm Henrique (19y)</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="henrique-coder" /> </p>
 
