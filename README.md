@@ -2,6 +2,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henrique-coder&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="henrique-coder" /> </p>
 
+![](https://hit.yhype.me/github/profile?user_id=78804989)
+
 #### A little about me
 
 - 🌱 I’m currently learning **Computer Science** at university
