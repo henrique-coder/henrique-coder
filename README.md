@@ -11,7 +11,7 @@ I'm currently studying computer science at university. I have over 5 years of ex
 ### 🎓 What I'm learning:
 [![Skills I'm learning](https://skillicons.dev/icons?i=python,flask,postgresql)](https://skillicons.dev)<br><br>
 
-### 🛠️ Tools and technologies
+### 🛠️ Tools and technologies:
 [![Tools and technologies that I am aware of](https://skillicons.dev/icons?i=vscode,pycharm,sqlite,git,github,docker,linux,windows)](https://skillicons.dev)<br><br>
 
 ### 👩🏻‍💻 Projects and initiatives:
