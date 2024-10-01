@@ -21,7 +21,7 @@ I'm currently studying computer science at university. I have over 5 years of ex
 
 <br><br>
 
-[![WakaTime status](https://wakatime.com/share/@firehdpower/4cf74b3f-f68b-4f78-a293-228ac52ec145.png)](https://wakatime.com/@firehdpower)<br>
+[![WakaTime status](https://wakatime.com/share/@firehdpower/33286698-2d85-4de0-84bc-ad935619b803.svg)](https://wakatime.com/@firehdpower)<br>
 
 ### Where you can find me:
 [![LinkedIn profile](https://img.shields.io/badge/Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-coder)](https://www.linkedin.com/in/henrique-coder)
