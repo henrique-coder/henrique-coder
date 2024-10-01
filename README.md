@@ -19,14 +19,15 @@ I'm currently studying computer science at university. I have over 5 years of ex
 - I have already started some projects and campaigns to bring the community together in a friendly way, creating a healthy and self-sustainable environment.
 - Other projects can be seen by clicking [here](https://github.com/Henrique-Coder?tab=repositories).
 
-<br>
+<br><br>
 
-### 📊 My status on WakaTime:
-[![WakaTime status](https://github-readme-stats.vercel.app/api/wakatime?username=@firehdpower&layout=compact&theme=vision-friendly-dark)](https://wakatime.com/@firehdpower)
+[![WakaTime status](https://wakatime.com/share/@firehdpower/4cf74b3f-f68b-4f78-a293-228ac52ec145.png)](https://wakatime.com/@firehdpower)<br>
 
 ### Where you can find me:
 [![LinkedIn profile](https://img.shields.io/badge/Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-coder)](https://www.linkedin.com/in/henrique-coder)
 [![Contact e-mail](https://img.shields.io/badge/gbcjiz08n@mozmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gbcjiz08n@mozmail.com)](mailto:gbcjiz08n@mozmail.com)
+
+<br>
 
 <div align="center">
   <h3><b>Counting profile visits</b></h3>
