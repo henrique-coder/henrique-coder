@@ -19,10 +19,14 @@ I'm currently studying computer science at university. I have over 5 years of ex
 - I have already started some projects and campaigns to bring the community together in a friendly way, creating a healthy and self-sustainable environment.
 - Other projects can be seen by clicking [here](https://github.com/Henrique-Coder?tab=repositories).
 
-### Where you can find me:
+<br>
 
-[![LinkedIn Profile](https://img.shields.io/badge/Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-coder)](https://www.linkedin.com/in/henrique-coder)
-[![Contact E-Mail](https://img.shields.io/badge/gbcjiz08n@mozmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gbcjiz08n@mozmail.com)](mailto:gbcjiz08n@mozmail.com)
+### 📊 My status on WakaTime:
+[![WakaTime status](https://github-readme-stats.vercel.app/api/wakatime?username=@firehdpower&layout=compact&theme=vision-friendly-dark)](https://wakatime.com/@firehdpower)
+
+### Where you can find me:
+[![LinkedIn profile](https://img.shields.io/badge/Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-coder)](https://www.linkedin.com/in/henrique-coder)
+[![Contact e-mail](https://img.shields.io/badge/gbcjiz08n@mozmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gbcjiz08n@mozmail.com)](mailto:gbcjiz08n@mozmail.com)
 
 <div align="center">
   <h3><b>Counting profile visits</b></h3>
@@ -30,7 +34,7 @@ I'm currently studying computer science at university. I have over 5 years of ex
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=henrique-coder&label=total%20views%20%E2%86%92&color=gray&style=for-the-badge"
+    src="https://profile-counter.glitch.me/henrique-coder/count.svg"
     alt="Illustration of the number of visitors to the profile"
   />
 </p>
