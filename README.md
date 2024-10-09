@@ -9,10 +9,10 @@ I'm currently studying computer science at university. I have over 5 years of ex
 ![](https://hit.yhype.me/github/profile?user_id=78804989)
 
 ### 🎓 What I'm learning:
-[![Skills I'm learning](https://skillicons.dev/icons?i=python,flask,postgresql)](https://skillicons.dev)<br><br>
+[![Skills I'm learning](https://skillicons.dev/icons?i=python,flask,php)](https://github.com/henrique-coder)<br><br>
 
 ### 🛠️ Tools and technologies:
-[![Tools and technologies that I am aware of](https://skillicons.dev/icons?i=vscode,pycharm,sqlite,git,github,docker,linux,windows)](https://skillicons.dev)<br><br>
+[![Tools and technologies that I am aware of](https://skillicons.dev/icons?i=vscode,pycharm,sqlite,git,github,docker,linux,windows)](https://github.com/henrique-coder)<br><br>
 
 ### 👩🏻‍💻 Projects and initiatives:
 - I developed some Python libraries that make developers' lives easier because they are intuitively designed and have all the necessary functions.
