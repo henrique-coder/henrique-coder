@@ -1,4 +1,4 @@
-<img src="https://svgur.com/i/1AmY.svg" alt="Illustration of a developer" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://files.catbox.moe/xq47v0.svg" alt="Illustration of a developer" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### <p align="center">Hey 👋, I'm Henrique
 
