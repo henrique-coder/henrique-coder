@@ -3,7 +3,7 @@
 ### <p align="center">Hey 👋, I'm Henrique
 
 <p align="rigth"> 
-I'm currently studying computer science at university. I have over 5 years of experience in computer science and technology, and over 2 years of experience focused on Python programming. I am currently contributing to some open source projects and studying the latest trends in the job market.
+I'm currently studying computer science at university. I have over 5 years of experience in technology and development, as well as over 2 years of experience focused on Python programming. I currently contribute to a few open source projects and study the latest trends in the job market.
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=78804989)
