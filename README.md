@@ -9,7 +9,7 @@ I'm currently studying computer science at university. I have over 5 years of ex
 ![](https://hit.yhype.me/github/profile?user_id=78804989)
 
 ### 🎓 What I'm learning:
-[![Skills I'm learning](https://skillicons.dev/icons?i=python,flask,php)](https://github.com/henrique-coder)<br><br>
+[![Skills I'm learning](https://skillicons.dev/icons?i=python,fastapi,bash)](https://github.com/henrique-coder)<br><br>
 
 ### 🛠️ Tools and technologies:
 [![Tools and technologies that I am aware of](https://skillicons.dev/icons?i=vscode,pycharm,sqlite,git,github,docker,linux,windows)](https://github.com/henrique-coder)<br><br>
