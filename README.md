@@ -25,7 +25,7 @@ I'm currently studying computer science at university. I have over 5 years of ex
 
 ### Where you can find me:
 [![LinkedIn profile](https://img.shields.io/badge/Henrique-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-coder)](https://www.linkedin.com/in/henrique-coder)
-[![Contact e-mail](https://img.shields.io/badge/gbcjiz08n@mozmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gbcjiz08n@mozmail.com)](mailto:gbcjiz08n@mozmail.com)
+[![Contact e-mail](https://img.shields.io/badge/henriquemoreira10fk@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:henriquemoreira10fk@gmail.com)](mailto:henriquemoreira10fk@gmail.com)
 
 <br>
 
