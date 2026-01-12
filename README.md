@@ -3,7 +3,7 @@
 ### <p align="center">Hey 👋, I'm Henrique
 
 <p align="rigth"> 
-I'm currently studying computer science at university. I have over 5 years of experience in technology and development, as well as over 2 years of experience focused on Python programming. I currently contribute to a few open source projects and study the latest trends in the job market.
+Currently, I am studying Computer Science at university. I have over 5 years of experience in technology and development, plus over 3 years of experience focused on Python programming. I contribute to several open-source projects and keep up with the latest trends in the job market.
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=78804989)
@@ -35,7 +35,7 @@ I'm currently studying computer science at university. I have over 5 years of ex
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/henrique-coder/count.svg"
+    src="https://komarev.com/ghpvc/?username=henrique-coder"
     alt="Illustration of the number of visitors to the profile"
   />
 </p>
