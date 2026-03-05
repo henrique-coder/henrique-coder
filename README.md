@@ -6,8 +6,6 @@
 Back-end developer with experience in IT & informatics since <strong>2018</strong>. Currently in my <strong>6th semester of Computer Science</strong>, I focus on building scalable and robust back-end solutions with Python and modern tooling. I'm an active open-source contributor and always keep up with the latest trends in software development.
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=78804989)
-
 <br>
 
 ---
@@ -57,17 +55,6 @@ Back-end developer with experience in IT & informatics since <strong>2018</stron
 - 📦 Worked with **Docker & Podman** for containerized, lightweight deployments on cloud platforms like Vercel.
 - 🤝 Initiated open-source **community projects** to foster collaboration in a healthy and self-sustainable dev environment.
 - 🔍 See all my projects [here](https://github.com/Henrique-Coder?tab=repositories).
-
----
-
-### 📊 Stats & Activity
-
-[![WakaTime status](https://wakatime.com/share/@firehdpower/33286698-2d85-4de0-84bc-ad935619b803.svg)](https://wakatime.com/@firehdpower)
-
-<a href="https://github.com/henrique-coder">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=henrique-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=henrique-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
 
 ---
 
