@@ -1,5 +1,3 @@
-<img src="https://files.catbox.moe/xq47v0.svg" alt="Illustration of a developer" min-width="350px" max-width="350px" width="350px" align="right">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&width=480&lines=Hey+%F0%9F%91%8B%2C+I%27m+Henrique!;Back-end+Developer;CS+Student+%7C+6th+Semester;Open+Source+Enthusiast)]()
 
 <p align="rigth">
