@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&width=480&lines=Hey+%F0%9F%91%8B%2C+I%27m+Henrique!;Back-end+Developer;CS+Student+%7C+6th+Semester;Open+Source+Enthusiast)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&width=600&lines=Hey+👋,+I'm+Henrique!;AI+Engineer+%26+Back-end+Developer;Prompt+Engineer+|+Autonomous+Agents;SaaS+%26+AI-native+Products)]()
 
-<p align="rigth">
-Back-end developer with experience in IT & informatics since <strong>2018</strong>. Currently in my <strong>6th semester of Computer Science</strong>, I focus on building scalable and robust back-end solutions with Python and modern tooling. I'm an active open-source contributor and always keep up with the latest trends in software development.
+<p align="left">
+Developer focused on <strong>Artificial Intelligence, Prompt Engineering, Autonomous Agents and SaaS platforms</strong>. With over <strong>10 years immersed in technology</strong>, the last few years have been dedicated to what is most relevant in the current market.<br><br>
+I build solutions centered on applied AI — from agent architecture and intelligent workflows to full product development. I have hands-on experience in advanced prompt engineering, AI pipeline construction, instruction design and production-ready systems.
 </p>
 
 <br>
@@ -10,19 +11,27 @@ Back-end developer with experience in IT & informatics since <strong>2018</stron
 
 ### 🧑‍💻 About Me
 
-- 🖥️ Experience in **IT & informatics since 2018**
+- 🤖 Focused on **AI Agents, LLMs, RAG and AI-driven automation**
+- 🧠 Advanced **Prompt Engineering**: instruction design, context optimization and model behavior
+- 🏗️ **Backend & Distributed Systems** architecture
+- 🚀 **SaaS and AI-native** product development
+- 🌍 Active open-source contributor & library author
 - 🎓 Currently in the **6th semester** of Computer Science
 - 💼 Administrative Assistant at **[Correios](https://www.correios.com.br)**
-- 🐍 **3+ years** of focused Python development
-- 🌍 Active open-source contributor & library author
 - 🌐 Personal website: **[henriquecoder.com](https://henriquecoder.com)**
 - 📍 São Paulo, Brazil
 
 ---
 
-### 🎓 Currently Learning
+### 🔍 Main Areas
 
-[![Skills I'm learning](https://skillicons.dev/icons?i=python,fastapi,bash)](https://github.com/henrique-coder)
+| Area | Focus |
+|---|---|
+| 🤖 AI & Autonomous Agents | LLMs, agentic workflows, RAG, AI-oriented automation |
+| 🧠 Prompt Engineering | Instruction design, context optimization, model behavior |
+| 🏗️ Backend & Distributed Systems | Scalable APIs, microservices, event-driven architecture |
+| 🚀 SaaS & AI-native Platforms | Full product development, AI integration |
+| 🌍 Open-Source | Public libraries, tools and community projects |
 
 ---
 
@@ -30,29 +39,36 @@ Back-end developer with experience in IT & informatics since <strong>2018</stron
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,js,bash)](https://github.com/henrique-coder)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,bash)](https://github.com/henrique-coder)
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=fastapi)](https://github.com/henrique-coder)
+[![Frameworks](https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,spring)](https://github.com/henrique-coder)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=sqlite,postgres)](https://github.com/henrique-coder)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb)](https://github.com/henrique-coder)
 
-**DevOps & Tools**
+**Cloud & DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,pycharm,windows)](https://github.com/henrique-coder)
+[![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,cloudflare,vercel,linux,git)](https://github.com/henrique-coder)
 
 ---
 
 ### 👩🏻‍💻 Projects & Initiatives
 
-- 🔧 Developed **Python libraries** intuitively designed to simplify developers workflows — clean APIs and all the necessary utilities built-in.
+- 🧩 Designed and built **autonomous AI agents** and intelligent workflows leveraging LLMs and RAG pipelines.
+- 🔧 Developed **Python libraries** intuitively designed to simplify developers' workflows — clean APIs and all the necessary utilities built-in.
 - 🌐 Built and published **browser extensions** for Chrome, Edge and Firefox, focusing on performance and great user experience.
-- 📦 Worked with **Docker & Podman** for containerized, lightweight deployments on cloud platforms like Vercel.
+- 📦 Worked with **Docker & Podman** for containerized, lightweight deployments on cloud platforms like AWS, GCP and Vercel.
 - 🤝 Initiated open-source **community projects** to foster collaboration in a healthy and self-sustainable development environment.
 - 🔍 See all my projects [here](https://github.com/henrique-coder?tab=repositories).
+
+---
+
+### 💼 Open to Opportunities
+
+I'm actively looking for my **first formal role** in the field — as a **Junior Developer**, **AI Engineer** or related positions — where I can apply this technical background in a team that values well-built solutions.
 
 ---
 
