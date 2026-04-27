@@ -16,7 +16,7 @@ I build solutions centered on applied AI — from agent architecture and intelli
 - 🏗️ **Backend & Distributed Systems** architecture
 - 🚀 **SaaS and AI-native** product development
 - 🌍 Active open-source contributor & library author
-- 🎓 Currently in the **6th semester** of Computer Science
+- 🎓 Currently in the **7th semester** of Computer Science
 - 💼 Administrative Assistant at **[Correios](https://www.correios.com.br)**
 - 🌐 Personal website: **[henriquecoder.com](https://henriquecoder.com)**
 - 📍 São Paulo, Brazil
